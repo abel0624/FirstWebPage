@@ -1,0 +1,81 @@
+.Main {
+  color: #33D8FF;
+  height: auto;
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  font-size: .5in;
+}
+
+.Status {
+  color:navy;
+  margin-left: 20px
+  font-weight:bold;
+  font-size: 40pt;
+}
+
+h3 {
+  margin-left: 280px;
+  color:black;
+  font-size: 20pt;
+}
+
+body {
+  background-image:url('backgrounds/7108.jpg') ;
+}
+
+.NavBar {
+  display: inline
+  float:left;
+  background-color: #33d8ff;
+  border: 2px solid white;
+
+}
+
+.NavBar li {
+  display: inline-block;
+  padding: 8px;
+
+
+
+}
+
+.menudiv {
+  height: 300px;
+  width: 200px;
+  border: 5px solid white ;
+  margin:20px;
+  margin-top: -80px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.News {
+  height: 500px;
+  width: 400px;
+  border:5px solid white;
+  margin-left: 260px;
+  margin-top:-260px;
+  padding-left: 10px;
+}
+.News p{
+  color:blue
+
+}
+
+.NewsT {
+
+height:20px;
+width: 120px;
+border: 2px solid white;
+margin-top: -0px;
+
+
+}
+
+a.NewSub {
+border: 3px solid white;
+padding: 5px;
+background-color: #33D8FF;
+
+}
